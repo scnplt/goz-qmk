@@ -3,5 +3,5 @@
 
 #pragma once
 
-#define ONESHOT_TIMEOUT 300
-#define TAPPING_TERM 180
+#define ONESHOT_TIMEOUT 200
+#define TAPPING_TERM 200
