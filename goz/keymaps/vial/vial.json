@@ -1,7 +1,7 @@
 {
     "name": "GOZ",
     "vendorId": "0x5343",
-    "productId": "0x0002",
+    "productId": "0x0003",
     "matrix": {
         "rows": 8,
         "cols": 6

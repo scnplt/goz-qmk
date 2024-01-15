@@ -3,5 +3,8 @@
 
 #pragma once
 
-#define ONESHOT_TIMEOUT 200
-#define TAPPING_TERM 200
+#define ONESHOT_TIMEOUT 180
+
+#define TAPPING_TERM 180
+#define HOLD_ON_OTHER_KEY_PRESS
+#define RETRO_TAPPING_PER_KEY

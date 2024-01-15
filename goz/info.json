@@ -5,11 +5,11 @@
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
-        "bootmagic": true,
+        "bootmagic": false,
         "command": false,
         "console": false,
         "extrakey": true,
-        "mousekey": true,
+        "mousekey": false,
         "nkro": true
     },
     "split": { "enabled": true },
@@ -21,7 +21,7 @@
     "url": "https://sertan.dev",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0002",
+        "pid": "0x0003",
         "vid": "0x5343"
     },
     "layouts": {
